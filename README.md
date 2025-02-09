@@ -72,11 +72,11 @@
 - 接口源：
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/lidonglongldl/iptv-api/gd/output/result.m3u
 ```
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://ghproxy.cc/https://raw.githubusercontent.com/lidonglongldl/iptv-api/gd/output/result.txt
 ```
 
 或
@@ -92,7 +92,7 @@ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
 - 数据源：
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
+https://raw.githubusercontent.com/lidonglongldl/iptv-api/gd/source.json
 ```
 
 或
